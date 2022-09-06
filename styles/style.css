@@ -4,4 +4,14 @@
 background-image: url('https://t3.ftcdn.net/jpg/01/99/42/16/360_F_199421691_6RObhULNQl5kY20lZpsJbylRj7SLmD9i.jpg');
 }
 
-h3{color: red}
+body{
+  background-color: aquamarine;
+}
+
+h3{
+  color: red
+}
+
+h3{
+  font-family: "Miniver", cursive;
+}
