@@ -1,21 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Miniver&display=swap");
+
+body {
+  background-color: yellow;
+}
+
+h3 {
+  font-family: "Miniver", cursive;
+}
+
+.navbar-brand {
+  font-family: "Miniver", cursive;
+}
+
 #outputDiv {
+  background-color: yellow;
   display: none;
-
-background-image: url('https://t3.ftcdn.net/jpg/01/99/42/16/360_F_199421691_6RObhULNQl5kY20lZpsJbylRj7SLmD9i.jpg');
 }
-
-body{
-  background-color: aquamarine;
-}
-
-h3{
-  color: red
-}
-
-h3{
-  font-family: "Miniver", cursive;
-}
-
-.navbar-brand{
-  font-family: "Miniver", cursive;
-}
+Footer
